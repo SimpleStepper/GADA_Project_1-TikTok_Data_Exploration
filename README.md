@@ -8,7 +8,8 @@ TikTok’s data team is in the earliest stages of the claims classification proj
 - Gather descriptive statistics
 
 ## Project Overview
-The code for the project can be found here: 
+[The code for the project can be found here]:https://github.com/SimpleStepper/GADA_Project_1-TikTok_Data_Exploration/blob/main/Course%202%20-%20TikTok%20Python%20Project.ipynb
+
 Several key task were performed such as: 
 - Loading necessary packages (NumPy, Pandas)
 - Importing TikTok dataset and converting into a Pandas dataframe
