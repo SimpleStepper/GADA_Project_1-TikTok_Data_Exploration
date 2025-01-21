@@ -16,7 +16,7 @@ Several task were performed such as:
 - Identifying relevant data structures and summarizing data
 - Combining or modifying data structures to create meaningful variables
   
-## Key Data Takeaways
+## Key Data Insights
 - Dataset Overview:
   - Contains **19,382 records** with TikTok Metrics such as video views, likes, shares, downloads.
   - Key attributes investigated include **claim_status** and **author_ban_status**.
