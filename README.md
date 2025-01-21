@@ -26,7 +26,7 @@ Several task were performed such as:
   - The Percentage of data is split between "claims" and "opinion" is 51% for claims (9,608 users) and 49% (9476 users) for opinions
   - Videos from **"Banned"** or **"Under-review"** users have a higher "claim" classification which have **significantly higher count of likes, shares and comments** in the "claim" category. In the "Opinion" classifcation the opposite is true, Active users have more engagement overall than the "Banned" or "Under-review" users.
 
-## Technical Skills:
+## Technical Skills
 1. **Data Exploration:**
      - Computing summary statistics (mean, median, min, max) in relevant categories.
      - Utilizing Pandas to filter, group, and transform data for actionable insights.
