@@ -1,4 +1,4 @@
-# TikTokData Exploration - Google Advanced Analytics Course Project 1
+# TikTok Data Exploration - Google Advanced Analytics Course Project 1
 This is the first Project from the Google Advanced Data Analytics Course. I have chosen to use the TikTok dataset provided by google.
 
 ## Scenario
