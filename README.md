@@ -16,13 +16,13 @@ Several task were performed such as:
 - Identifying relevant data structures and summarizing data
 - Combining or modifying data structures to create meaningful variables
   
-## Key Data Insights
+## Data Insights
 - Dataset Overview:
   - Contains **19,382 records** with TikTok Metrics such as video views, likes, shares, downloads.
   - Key attributes investigated include **claim_status** and **author_ban_status**.
   - Missing several values within columns displayed as NaN.
       
-- key observations:
+- Key Observations:
   - The Percentage of data is split between "claims" and "opinion" is 51% for claims (9,608 users) and 49% (9476 users) for opinions.
   - Videos from **"Banned"** or **"Under-review"** users have a higher "claim" classification which have **significantly higher count of likes, shares and comments** in the "claim" category. In the "Opinion" classifcation the opposite is true, Active users have more engagement overall than the "Banned" or "Under-review" users.
 
